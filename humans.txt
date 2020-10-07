@@ -7,9 +7,9 @@
 
 # THANKS
 
-    Bibhash Roy
+    Ministry of Cryptos Roy
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr, AngularJS
+    jQuery, Modernizr, AngularJS, Cryptography
